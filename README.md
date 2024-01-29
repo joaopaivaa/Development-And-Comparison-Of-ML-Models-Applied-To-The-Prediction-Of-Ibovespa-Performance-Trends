@@ -1,1 +1,0 @@
-# Development-And-Comparison-Of-ML-Models-Applied-To-The-Prediction-Of-Ibovespa-Performance-Trends
